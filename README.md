@@ -1,7 +1,7 @@
 
 Computer Vision
 
-The model has been trained in only three epochs to show its correct work and to get some result in the test sample.**
+The model has been trained in only three epochs to show its correct work and to get some result in the test sample.
 
 A water surface image segmentation model has been created.
 It is used the U-Net architecture based on the Keras library.
